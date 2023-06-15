@@ -1,6 +1,6 @@
 {
   "name": "com.toxicbloud.moonsharp",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "displayName": "MoonSharp Unity",
   "description": "A Unity package to embed MoonSharp in modern Unity versions",
   "unity": "2019.1",
